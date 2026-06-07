@@ -46,3 +46,4 @@ ax.legend()
 ax.grid()
 ax.set(xlabel="time", ylabel="co2")
 plt.show()
+#Dự đoán đệ quy đa bước
